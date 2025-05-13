@@ -1,0 +1,21 @@
+.one,
+.two {
+    background-color: rgb(255, 170, 170);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#only {
+    color: blue;
+    font-size: 36px;
+}
+
+.one,
+.two {
+    font-size: 24px;
+}
+
+#notonly {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
